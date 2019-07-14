@@ -1,1 +1,1 @@
-thssssis is the first txt file!
+hello ! this is ShenHd's history of learning git!
